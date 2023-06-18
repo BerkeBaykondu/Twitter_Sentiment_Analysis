@@ -1,19 +1,5 @@
 # Twitter_Sentiment_Analysis
 
-•	METHODOLOGY 
-  o	Data Collection 
-  o	Data Preprocessing 
-    	Noise Removal in Tweets 
-    	Tokenization 
-    	Stemming 
-    	Lemmetization
-    	Data Vectorization
-  o	Method Selection
-  o	Classification Model Selection
-•	ANALYSIS
-  o	Analysis for Sentiment Analysis
-
-
 # METHODOLOGY
 Data collection, data preprocessing, method selection, classification model selection, and
 preparation for selected classification methods are the five parts of the methodology section.
